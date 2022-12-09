@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "777139503848",
-    "project_id": "cristagram-ad811",
-    "storage_bucket": "cristagram-ad811.appspot.com"
+    "project_number": "727499048078",
+    "firebase_url": "https://cristagram-91917-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cristagram-91917",
+    "storage_bucket": "cristagram-91917.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:777139503848:android:d77bcd4a193b8725823f5d",
+        "mobilesdk_app_id": "1:727499048078:android:d21d2c1cfce7de1ed7f5df",
         "android_client_info": {
-          "package_name": "pro.luisserrano.mistagram"
+          "package_name": "pro.luisserrano.cristagram"
         }
       },
       "oauth_client": [
         {
-          "client_id": "777139503848-lc5ri33qmb6nt8vdsaoqnbrabnnmrkqi.apps.googleusercontent.com",
+          "client_id": "727499048078-p3ca2mk70cbdpha0cbbobkmppb5pfsdb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAVbnqUh5n_C9-I8hQgGf6tvhXjjXToX9o"
+          "current_key": "AIzaSyCgoMycApg33O7d0B2L8RmQoq2OvsykE84"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "777139503848-lc5ri33qmb6nt8vdsaoqnbrabnnmrkqi.apps.googleusercontent.com",
+              "client_id": "727499048078-p3ca2mk70cbdpha0cbbobkmppb5pfsdb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
