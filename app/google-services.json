@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:727499048078:android:d21d2c1cfce7de1ed7f5df",
+        "mobilesdk_app_id": "1:727499048078:android:057a8277e6946333d7f5df",
         "android_client_info": {
-          "package_name": "pro.luisserrano.cristagram"
+          "package_name": "pro.luisserrano.mistagram"
         }
       },
       "oauth_client": [
